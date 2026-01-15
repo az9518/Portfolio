@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "profile-picture",
+      "description": "A portrait of the developer.",
+      "imageUrl": "/profile-photo.jpg",
+      "imageHint": "developer portrait"
+    },
+    {
+      "id": "project-1",
+      "description": "Screenshot of an e-commerce platform project.",
+      "imageUrl": "/project_1.png",
+      "imageHint": "web application"
+    },
+    {
+      "id": "project-2",
+      "description": "Screenshot of a AI finance platform.",
+      "imageUrl": "/ai-finance-platform-image.png",
+      "imageHint": "dashboard interface"
+    },
+    {
+      "id": "project-3",
+      "description": "Screenshot of a personal portfolio website.",
+      "imageUrl": "/portfolio.png",
+      "imageHint": "website design"
+    },
+    {
+      "id": "project-4",
+      "description": "Screenshot of Healthlink-Etherium Health Records project.",
+      "imageUrl": "/healthlink.png",
+      "imageHint": "blockchain application"
+    }
+  ]
+}
