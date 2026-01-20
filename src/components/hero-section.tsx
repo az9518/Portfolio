@@ -7,7 +7,7 @@ import { PlaceHolderImages } from '@/lib/placeholder-images';
 import { motion } from 'framer-motion';
 import { useEffect, useState } from 'react';
 
-const roles = ["Software Engineer", "Full Stack Developer", "Machine Learning Enthusiast"];
+const roles = ["Software Engineer", "Full Stack Developer"];
 
 export default function HeroSection() {
   const profileImage = PlaceHolderImages.find(p => p.id === 'profile-picture');
@@ -118,3 +118,4 @@ export default function HeroSection() {
     </section>
   );
 }
+
