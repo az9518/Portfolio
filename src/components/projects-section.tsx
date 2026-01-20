@@ -240,7 +240,7 @@ export default function ProjectsSection() {
           transition={{ delay: 0.4 }}
         >
           <a
-            href="https://github.com/amansrivastava"
+            href="https://github.com/az9518"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 px-8 py-4 bg-gray-900 text-white rounded-full font-semibold hover:bg-gray-800 transition-colors duration-300 shadow-xl hover:shadow-2xl hover:scale-105 transform"
