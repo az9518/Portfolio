@@ -50,7 +50,7 @@ export const contactInfo: ContactInfo = {
     name: 'Aman Srivastava',
     phone: '+91 9314891942',
     email: 'srivastavaaman4you@gmail.com',
-    github: 'github.com/amansrivastava',
+    github: 'github.com/az9518',
     linkedin: 'linkedin.com/in/aman-srivastava-822678196',
     location: 'Bangalore, Karnataka, India',
 };
@@ -97,7 +97,7 @@ export const experience: Experience[] = [
         company: 'Vinci Highways',
         period: 'Present',
         responsibilities: [
-            'Project Upskill: Leading the development of a specialized learning and skill-tracking platform, focusing on enhancing employee performance through targeted training modules and progress analytics.',
+            'Project Upskill: Leading the development of a specialized learning and skill-tracking platform, focusing on enhancing employee performance through targeted training modules and programs.',
             'Project M50: Contributing to the M50 highway infrastructure project by developing robust web-based management tools for real-time monitoring and reporting.',
             'Designing and maintaining scalable full-stack architectures using modern web technologies to ensure high availability and performance.',
             'Collaborating with international teams to align software solutions with global highway management standards.',
@@ -119,7 +119,7 @@ export const experience: Experience[] = [
 export const projects: Project[] = [
     {
         name: 'TMF Horizon',
-        description: 'Enterprise application for creating payslips for multiple clients and conducting audits. Designed dynamic UIs and built robust APIs, optimizing backend logic and stored procedures for efficient data handling and performance.',
+        description: 'Enterprise application for creating payslips for multiple clients and conducting audits. Designed dynamic UIs and built robust APIs, optimizing backend logic and stored procedures.',
         links: [
             { name: 'Company Project', url: '#' },
         ],
